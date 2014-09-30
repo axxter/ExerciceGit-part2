@@ -1,0 +1,10 @@
+#Configuration Git
+
+-nom d'utilisateur
+	Git config --global user.name <username>
+-adresse mél
+	Git config --global user.email <email>
+-éditeur de texte
+	git config --global core.editor emacs
+
+
