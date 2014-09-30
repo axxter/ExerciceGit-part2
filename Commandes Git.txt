@@ -1,0 +1,6 @@
+#initialiser un dépôt
+	-git init
+
+#ajouter un fichier à l'index
+	-git add
+
